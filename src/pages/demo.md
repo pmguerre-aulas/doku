@@ -2,4 +2,4 @@
 
 blablablabla...
 
-Um [link](um_endereço_errado) para um site inválido.
+Um [link](https://github.com) para um github.
