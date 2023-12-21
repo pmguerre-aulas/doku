@@ -90,12 +90,7 @@ const config = {
         links: [
           {
             title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
+            image: 'img/docusaurus-social-card.jpg',
           },
           {
             title: 'Community',
