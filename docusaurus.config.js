@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Ola',
-                html: '<img src="img/docusaurus-social-card.jpg" />',
+                //html: '<img src="img/docusaurus-social-card.jpg" />',
               },
             ],
           },
